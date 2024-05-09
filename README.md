@@ -1,3 +1,6 @@
+# Information
+This is officially a discontinued project.
+
 # 👽 Information
 This cheat base is made for CS2 (Counter-Strike: 2), this is intended for people that wanna get into the game hacking scene or just want to learn C++ in general. This base is really beginner friendly and also delivers great functionality such as: 
 + Useful / Beginner friendly comments in the lines for learning usage or for maybe pasting some lines of code, everyone is welcome to take a look or maybe take this as inspiration. Feel free of what you wanna do with it, for a proper list of the environment can be found on the bases utility folder
@@ -14,4 +17,4 @@ This cheat base is made for CS2 (Counter-Strike: 2), this is intended for people
 
 # 🎮 Need help?
 Don't hesitate to add me on discord!
-armgladiator
+zruhka
